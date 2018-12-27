@@ -1,0 +1,19 @@
+{
+  "name": "publishposts_vue-express",
+  "version": "1.0.0",
+  "description": "Sample Vue.js/Express.js app to read,add and delete posts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": " nodemon server/index.js"
+  },
+  "author": "Sushil Takkekar",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/cli": "^3.2.1",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
+}
