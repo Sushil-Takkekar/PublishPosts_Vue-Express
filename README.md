@@ -31,3 +31,6 @@ $ npm install --save axios  # in client
 vue create client
 
 ```
+
+### Live demo
+You can experience the live version of the application at [https://publishposts-vue-express.herokuapp.com] (https://publishposts-vue-express.herokuapp.com)
