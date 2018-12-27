@@ -3,7 +3,7 @@ Sample Vue.js/Express.js project to publish posts. Read, Create and Delete user 
 
 ### Quick run
 ``` bash
-# install dependencies
+# install dependencies (from PublishPosts_Vue-Express folder and client folder)
 $ npm install
 
 # run vue.js client (from client folder)
