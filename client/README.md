@@ -2,7 +2,7 @@
 A Vue.js project
 
 ## Project setup
-# install dependencies
+### install dependencies
 ```
 npm install
 ```
